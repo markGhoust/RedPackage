@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SixRedPackage</string>
+    <string name="redpackagelable">红包助手</string>
+    <string name="openbutton">开启功能</string>
+</resources>
